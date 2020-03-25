@@ -1,1 +1,1 @@
-# CovidLambda
+# YACD-YetAnotherCovid19Detector
